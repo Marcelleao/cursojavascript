@@ -18,5 +18,9 @@ section {
 footer {
     color: white;
     text-align: center;
-    font-style: italic;;
+    font-style: italic;
+}
+select#flista {
+    width: 150px;
+    margin: 10px 10px 10px 10px;
 }
